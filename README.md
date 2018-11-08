@@ -6,4 +6,4 @@ Collect any pixel art tutorials
 
 ## 2018
 
-**十一月**：[第 1 期](doc/issue-1.md)
+**十一月**：[第 1 期](doc/issue-1.md)   [第 2 期](doc/issue-2.md)
