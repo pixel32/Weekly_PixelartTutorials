@@ -32,15 +32,7 @@
 
 ## 参考资料
 
-<<<<<<< HEAD
-1、[电子游戏美术资源站](http://www.spriters-resource.com/) 
-
-我最常用的素材站。
-
-2、[emugif](http://www.emugif.com/)
-=======
 1、[emugif](http://www.emugif.com/) 
->>>>>>> 1dba0aba67f977d44ac36e7d1b8d3147c08087f2
 
 国内改图圈发源地。
 
