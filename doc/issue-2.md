@@ -36,7 +36,7 @@
 
 我最常用的素材站。
 
-2、[emugif](http://www.emugif.com/) 
+2、[emugif](http://www.emugif.com/)
 
 国内改图圈发源地。
 
