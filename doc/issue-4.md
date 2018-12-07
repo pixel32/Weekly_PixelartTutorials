@@ -30,11 +30,7 @@ Micro-mages这款订制NES游戏仅40KB，如何在极限容量下做好游戏�
 
 ## 欢迎订阅
 
-这个专栏会同步更新在我的[个人网站](http://www.32pixel.com)、[微信公众号](http://weixin.sogou.com/weixin?type=1&query=教你画像素画)。
-
-微信搜索"教你画像素画"或者扫描二维码，即可手机订阅。
-
-![](http://32pixel.com/wordpress/wp-content/uploads/2018/10/gongzonghao-236x300.png)
+这个专栏会同步更新在我的[个人网站](https://www.32comic.com)。
 
 （完）
 
