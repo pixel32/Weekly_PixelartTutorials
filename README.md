@@ -6,7 +6,7 @@ Collect any pixel art tutorials
 
 ## 2019
 
-**一月**：[第 10 期](doc/issue-10.md) 
+**一月**：[第 10 期](doc/issue-10.md)  [第 11 期](doc/issue-11.md) 
 
 ## 2018
 
