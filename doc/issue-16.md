@@ -6,10 +6,15 @@
 
 ## 公众号教程
 1、[笨办法学ISO像素画特殊复杂房子教程](https://mp.weixin.qq.com/s?__biz=MjM5MTYxNTcwMQ==&mid=2650553019&idx=1&sn=69b7f9fb1c1b133ee1d317b6efdffc19&chksm=beba450189cdcc17513414ce351dc78019252f50f76513e218d6e039e773926f4e9c742c4eaf&token=874702709&lang=zh_CN#rd)
+
 2、[笨办法学ISO像素画动物可爱小狗教程](https://mp.weixin.qq.com/s?__biz=MjM5MTYxNTcwMQ==&mid=2650553054&idx=1&sn=0307a0f1f204419110372cab50a4a143&chksm=beba456489cdcc72ed402e38c178f79a369c0acde5f6e84fbbf8998f4fd5c8b3a691692675a5#rd)
+
 3、[掌握和学会这8种方法，画好像素画不用愁了](https://mp.weixin.qq.com/s?__biz=MjM5MTYxNTcwMQ==&mid=2650553088&idx=1&sn=c7f195c9349f62d95965e49a43e8d0fb&chksm=beba44ba89cdcdacadb7fe8f73fa9a1dfdd21c13a64dadd9db079dc2dd737679e7f3723d7847#rd)
+
 4、[简单可爱像素画鸟类画法指南](https://mp.weixin.qq.com/s?__biz=MjM5MTYxNTcwMQ==&mid=2650553114&idx=2&sn=0d1a075f5aa58ef060b878de2d1f1daa&chksm=beba44a089cdcdb6e5557ae4fc96a8a25732a566c98e6ec6972bca1ff430799633dc9a2ef409#rd)
+
 5、[简单可爱像素画矿石伴生矿画法指南](https://mp.weixin.qq.com/s?__biz=MjM5MTYxNTcwMQ==&mid=2650553149&idx=2&sn=7db2de53fce4ec0459a6263d9041a88f&chksm=beba448789cdcd911d2a06cf2f9561b2e2df2f119b9db153ef8210a3b31a51ba6ec5613cdb9e#rd)
+
 6、[极简游戏角色行走动画制作方法](https://mp.weixin.qq.com/s?__biz=MjM5MTYxNTcwMQ==&mid=2650553169&idx=2&sn=6c9be42dc1604ec08831a210c44532c2&chksm=beba44eb89cdcdfd63b5ac6abdc9e55c46901e12c3a2a25e74ee4c2aabff1ab4113171dd1f1b#rd)
 ## 其他教程
 无

@@ -6,10 +6,15 @@
 
 ## 教程
 1、[一个人如何开发独立游戏](http://mp.weixin.qq.com/s?__biz=MjM5MTYxNTcwMQ==&mid=2650553204&idx=2&sn=1aa7546ff3f5186094ef0ff3beb5ff9e&chksm=beba44ce89cdcdd8b75d3680b66051cb2f363191b70b9effc7533bd3f71ff162f3d47bd0fa9d#rd)
+
 2、[开发成功免费游戏F2P的7个步骤](http://mp.weixin.qq.com/s?__biz=MjM5MTYxNTcwMQ==&mid=2650553209&idx=1&sn=e0dbdec98d0d1e1fad983fc3fb7f9e74&chksm=beba44c389cdcdd5ab053da57a6e736bc4e506bd1c138d6af8a49c9ad611e80739431740055f#rd)
+
 3、[0预算如何制作游戏宣传视频](http://mp.weixin.qq.com/s?__biz=MjM5MTYxNTcwMQ==&mid=2650553235&idx=2&sn=343e2ba3bb5501f189e066b0e9eb7e56&chksm=beba442989cdcd3f880f68940b1acff1c72b1d5ef570896041ac1e9563199e891b74bf4d2aef#rd)
+
 4、[怎样使用游戏和应用内推荐获取新用户？](http://mp.weixin.qq.com/s?__biz=MjM5MTYxNTcwMQ==&mid=2650553265&idx=2&sn=ab0fa54060b5db1c9b4184a76227958f&chksm=beba440b89cdcd1d83b3e2d9d4298d616674d3fb6fed2fa96a637f78a4225f4bb595bbc893ab#rd)
+
 5、[独立游戏开发者如何寻找合适的游戏发行商？](http://mp.weixin.qq.com/s?__biz=MjM5MTYxNTcwMQ==&mid=2650553283&idx=2&sn=79c190a4584ed8f7ad969cbb6e036817&chksm=beba447989cdcd6f12b33f6f74c10d72127f5523f59eaff925171401d1334a3928d9d15d485e&token=867620174&lang=zh_CN#rd)
+
 6、[平涂填充型动漫图片转像素画方法](http://mp.weixin.qq.com/s?__biz=MjM5MTYxNTcwMQ==&mid=2650553301&idx=1&sn=06f098553e8daadecffa721eb3c99046&chksm=beba446f89cdcd799a055816fab3e992b68020e53846d79fcc2df20a63a99d986ecdcff494a5#rd)
 
 ## 资料
