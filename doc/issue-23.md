@@ -4,7 +4,6 @@
 
 如果你看到好的像素画教程或值得分享的内容，欢迎通过 [issue](https://github.com/pixel32/Weekly_PixelartTutorials/issues) 提交。
 
-![此处输入图片的描述][1]
 
 ## 教程
 1、[独立游戏开发：不懂人体结构如何设计Q版游戏角色？](http://mp.weixin.qq.com/s?__biz=MjM5MTYxNTcwMQ==&mid=2650554386&idx=1&sn=e8bfd1b8c9f5579eeccfaf0a8ee588a1&chksm=beba3fa889cdb6be19c30360d71c39a2909fe1aea9005f722ad3a40b797c795e98978faa328c#rd)
@@ -27,5 +26,3 @@
 无。
 
 完。
-
-  [1]: https://32comic.com/wp-content/uploads/2019/04/wxsync-sync-13986277395ca58413284071554351123.gif
