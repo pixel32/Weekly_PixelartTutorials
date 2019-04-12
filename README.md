@@ -6,7 +6,7 @@ Collect any pixel art tutorials
 
 ## 2019
 
-**四月**：[第 23 期](doc/issue-23.md)  
+**四月**：[第 23 期](doc/issue-23.md)  [第 24 期](doc/issue-24.md)  
 
 **三月**：[第 18 期](doc/issue-18.md)   [第 19 期](doc/issue-19.md)   [第 20 期](doc/issue-20.md)  [第 21 期](doc/issue-21.md)  [第 22 期](doc/issue-22.md) 
 
