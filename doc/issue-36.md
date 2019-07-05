@@ -6,7 +6,6 @@
 
 ## 教程
 1、[Unity2019基础教程：怎样添加碰撞检测？怎样添加角色动画？](http://mp.weixin.qq.com/s?__biz=MjM5MTYxNTcwMQ==&mid=2650556081&idx=1&sn=d8b9b3dbc1dade7edac57c5acdc1f099&chksm=beba390b89cdb01daf5da260c372668e05118aa8166ce71a62c945de76152cd63d83009e4a30&token=544103684&lang=zh_CN#rd)
-质量很高的Gif教程。
 
 2、[Nick N像素画动画教程：武器攻击特效画法](http://mp.weixin.qq.com/s?__biz=MjM5MTYxNTcwMQ==&mid=2650556094&idx=1&sn=de893d8f24343a3c5a04dd9b36fb2008&chksm=beba390489cdb012cdabf4cf244e4e08351af93b0070376f557a9f4d17407ac39fd41cfe8dc5&token=544103684&lang=zh_CN#rd)
 
