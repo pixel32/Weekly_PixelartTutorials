@@ -41,6 +41,7 @@
 1、創業的人不一定要聰明，也不可能太聰明，創業是從無知開始，一開始就有計劃的生意最容易失敗，因為如果生意是先可以計劃好，那裏有發展空間，創業就是Unexpected。
 
 完。
+
 [1]:https://www.kawaiihannah.com/pixelart/tutorials/drawing-bases
 
 [2]:http://mp.weixin.qq.com/s?__biz=MjM5MTYxNTcwMQ==&mid=2650556223&idx=1&sn=346e8afad4f76452bb18d4d87b74ff68&chksm=beba388589cdb19334875f933056515691351ac14898d3768a3cab41de0257dc490ad4ea183e&token=1004814080&lang=zh_CN#rd
