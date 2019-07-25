@@ -60,8 +60,6 @@ slynyrd从2015年开始学习像素画，然后自己开发游戏，写了大量
 
 2、[开源app应用UI微交互源码](https://abduzeedo.com/github-open-source-collection-animated-micro-interactions "开源app应用UI微交互源码")
 
-![abu-dhabi-flamingo-observation-tower](https://static.designboom.com/wp-content/uploads/2019/07/winning-designs-abu-dhabi-flamingo-observation-tower-designboom-2.jpghttps://raw.githubusercontent.com/Cuberto/3d-tap/master/Screenshots/animation.gif "abu-dhabi-flamingo-observation-tower")
-
 
 ## 摘录
 1、[iphone为什么在中国制造？](https://cn.nytimes.com/business/20120122/c00appleone "iphone为什么在中国制造？")
