@@ -7,26 +7,6 @@
 
 由于微信不允许外部链接，你需要点击文章末尾右下角的“阅读原文”，才能访问文中的所有链接。
 
-## 一周像素画精选（2019年第30周）
-
-![Neorice University](https://pbs.twimg.com/media/EAODX8xXYAAZaCs?format=png&name=small "Neorice University")
-
-![Moosestache](https://pbs.twimg.com/media/D_8jjNLWwAUe1Yy?format=png&name=small "Moosestache")
-
-![rob[/ε/]d
-](https://pbs.twimg.com/media/EATMoarXUAUk8Xf?format=png&name=small)
-
-![Soda_piggy
-](https://pbs.twimg.com/media/EASDm6RXkAA1I_8?format=jpg&name=small)
-
-![N.D.Christie (Adarias)
-](https://pbs.twimg.com/media/EAM7UF9XYAAeCcY?format=png&name=small)
-
-![loruko](https://pbs.twimg.com/media/EAQ0xhkX4AAk_ks?format=png&name=small)
-
-![onion](https://pbs.twimg.com/media/EARtC1cXoAEqoN_?format=png&name=small)
-
-![Jem](http://pixeljoint.com/files/icons/full/collectionghost__r1132466291.png)
 
 ## 教程
 1、[Luis Zuno像素画教程：游戏美术设计中颜色对比](http://mp.weixin.qq.com/s?__biz=MjM5MTYxNTcwMQ==&mid=2650556382&idx=1&sn=bb451993daa2d60f7167181462ba85b8&chksm=beba386489cdb1721d9c224a8da4c1a212dcd4ce8d83f1a9ad03f5e96f2c97972b9557b6a752&token=294098744&lang=zh_CN#rd "教你画像素画")
