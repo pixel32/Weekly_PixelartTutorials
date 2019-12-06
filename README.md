@@ -6,6 +6,8 @@ Collect any pixel art tutorials
 
 ## 2019
 
+**十二月**：[第 58 期](doc/issue-58.md)
+
 **十一月**：[第 53 期](doc/issue-53.md) [第 54 期](doc/issue-54.md) [第 55 期](doc/issue-55.md)  [第 56 期](doc/issue-56.md)  [第 57 期](doc/issue-57.md) 
 
 **十月**：[第 49 期](doc/issue-49.md) [第 50 期](doc/issue-50.md)  [第 51 期](doc/issue-51.md)  [第 52 期](doc/issue-52.md) 
