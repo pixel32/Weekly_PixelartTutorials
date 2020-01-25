@@ -6,7 +6,8 @@ Collect any pixel art tutorials
 
 ## 2020
 
-**一月**：[第 62 期](doc/issue-62.md) [第 63 期](doc/issue-63.md)  [第 64 期](doc/issue-64.md)
+**一月**：[第 62 期](doc/issue-62.md) [第 63 期](doc/issue-63.md)  [第 64 期](doc/issue-64.md) [第 65 期](doc/issue-65.md)
+
 
 ## 2019
 
