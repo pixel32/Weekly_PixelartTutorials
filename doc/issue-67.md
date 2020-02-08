@@ -4,7 +4,7 @@
 
 如果你看到好的像素画教程或值得分享的内容，请前往GitHub的[pixel32/Weekly_PixelartTutorials](https://github.com/pixel32/Weekly_PixelartTutorials "pixel32/Weekly_PixelartTutorials")提交issue。
 
-![Retro](https://pbs.twimg.com/media/EQAa9S0XUAEd0Cy?format=png&name=large)
+![Retro](.img/EQAa9S0XUAEd0Cy.png)
 
 # 一周像素画精选
 
