@@ -43,7 +43,6 @@
 
 3、[像素画教程搜索方法](https://mp.weixin.qq.com/s/jg6G9yVEncAeI-ZEmAB-Cg)
 
-4、[像素画游戏加血道具肉画法](https://mp.weixin.qq.com/s/KDY9EE0BqPl1I23UUFN40Q)
 
 # 鸡汤摘录
 
