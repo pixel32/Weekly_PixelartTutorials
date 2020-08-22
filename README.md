@@ -6,7 +6,7 @@ Collect any pixel art tutorials
 
 ## 2020
 
-**八月**：[第 92 期](doc/issue-92.md)  [第 93 期](doc/issue-93.md)  [第 94 期](doc/issue-94.md) 
+**八月**：[第 92 期](doc/issue-92.md)  [第 93 期](doc/issue-93.md)  [第 94 期](doc/issue-94.md) [第 95 期](doc/issue-95.md) 
 
 **七月**：[第 88 期](doc/issue-88.md) [第 89 期](doc/issue-89.md) [第 90 期](doc/issue-90.md) [第 91 期](doc/issue-91.md)
 
