@@ -37,11 +37,11 @@
 
 # 教程
 
-1、[西村将由像素画教科书：像素画线条基础](https://mp.weixin.qq.com/s/qsneiL4udvEwxFFP-nZsjw)
+1、[西村将由像素画教科书：像素画小狗](https://mp.weixin.qq.com/s/r-q4YwiuxnBCHOMoNinJrw)
 
-2、[西村将由像素画教科书：明暗上色方法](https://mp.weixin.qq.com/s/wtIC6UKfh2xQPsqICCjmwQ)
+2、[Uppon Hill像素画角色动作设计](https://mp.weixin.qq.com/s/uMNsBnxQSq5HMkuHwTsYyQ)
 
-3、[西村将由像素画教科书：AA手工抗锯齿](https://mp.weixin.qq.com/s/Qoel0BSLzCEBvRtKeR2EuA)
+3、[西村将由像素画教科书：像素画老鹰](https://mp.weixin.qq.com/s/u-kXYwito3TvjkeiN7E9Qw)
 
 # 鸡汤摘录
 
