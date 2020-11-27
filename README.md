@@ -6,7 +6,7 @@ Collect any pixel art tutorials
 
 ## 2020
 
-**十一月**： [第 106 期](doc/issue-106.md)  [第 107 期](doc/issue-107.md)  [第 108 期](doc/issue-108.md) 
+**十一月**： [第 106 期](doc/issue-106.md)  [第 107 期](doc/issue-107.md)  [第 108 期](doc/issue-108.md) [第 109 期](doc/issue-109.md) 
 
 **十月**： [第 101 期](doc/issue-101.md)  [第 102 期](doc/issue-102.md) [第 103 期](doc/issue-103.md)  [第 104 期](doc/issue-104.md)  [第 105 期](doc/issue-105.md)
 
