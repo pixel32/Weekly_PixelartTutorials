@@ -38,11 +38,11 @@
 # 教程
 
 
-1、[像素画攻击动画结构](https://mp.weixin.qq.com/s/k-AzRJDa8x_4ae5_zCVAJg)
+1、[如何制造戏剧性](https://mp.weixin.qq.com/s/7yEg-lflBP86EKnY1gIOrQ)
 
-2、[像素画爆炸动画结构](https://mp.weixin.qq.com/s/pImF0D3gyl0r_dC0-7PXeQ)
+2、[极简像素画分析](https://mp.weixin.qq.com/s/lrQUBJser8UGmjQDMqrsng)
 
-3、[像素画练习示范](https://mp.weixin.qq.com/s/tjfZAUSO8L-ZUpHzIcN_Dg)
+3、[像素画娃娃换装](https://mp.weixin.qq.com/s/gXpDaou-KfaQ4cl1q1lbbA)
 
 # 鸡汤摘录
 
