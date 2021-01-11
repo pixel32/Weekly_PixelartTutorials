@@ -23,8 +23,6 @@
 ![Aduare
 ](https://pbs.twimg.com/media/ErIye0CUYAA8GLm?format=png&name=small)
 
-![MBalloonrcelya
-](https://pbs.twimg.com/media/ErH321fVcAAa3f1?format=jpg&name=large)
 
 ![アペ
 ](https://pbs.twimg.com/media/ErGwbuqVEAAgg-n?format=png&name=900x900)
