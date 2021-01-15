@@ -6,7 +6,7 @@ Collect any pixel art tutorials
 
 ## 2021
 
-**一月**：[第 114 期](doc/issue-114.md)  [第 115 期](doc/issue-115.md) 
+**一月**：[第 114 期](doc/issue-114.md)  [第 115 期](doc/issue-115.md) [第 116 期](doc/issue-116.md) 
 
 ## 2020
 
