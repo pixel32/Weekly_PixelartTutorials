@@ -1,10 +1,12 @@
 # Weekly_PixelartTutorials
 Collect any pixel art tutorials
 
-像素画教程分享周刊，每周五发布
-如果你看到好的像素画教程，欢迎通过 [issue](https://github.com/pixel32/Weekly_PixelartTutorials/issues) 提交。
+像素画教程分享周刊，每周六发布
+想要投稿，分享内容，招聘求职或接发外包，[issue](https://github.com/pixel32/Weekly_PixelartTutorials/issues) 提交。
 
 ## 2021
+
+**三月**：[第 124 期](doc/issue-124.md)
 
 **二月**：[第 119 期](doc/issue-119.md) [第 120 期](doc/issue-120.md) [第 121 期](doc/issue-121.md)  [第 122 期](doc/issue-122.md) [第 123 期](doc/issue-123.md) 
 
