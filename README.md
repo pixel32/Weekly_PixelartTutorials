@@ -6,7 +6,7 @@ Collect any pixel art tutorials
 
 ## 2021
 
-**四月**： [第 127 期](doc/issue-127.md) [第 128 期](doc/issue-128.md) 
+**四月**： [第 127 期](doc/issue-127.md) [第 128 期](doc/issue-128.md)  [第 129 期](doc/issue-129.md) 
 
 **三月**：[第 124 期](doc/issue-124.md) [第 125 期](doc/issue-125.md) [第 126 期](doc/issue-126.md) 
 
