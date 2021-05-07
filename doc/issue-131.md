@@ -6,7 +6,7 @@
 
 ![Hiroita](https://files.mdnice.com/user/10493/d36779a0-858a-40b2-9386-ac0324f932a3.png)
 
-![@albino_chan0](https://files.mdnice.com/user/10493/61d30070-a57b-4dce-9e60-19eb8b4fd7bc.png)
+![albino_chan0](https://files.mdnice.com/user/10493/61d30070-a57b-4dce-9e60-19eb8b4fd7bc.png)
 
 ![Lucas Rgznsk](https://files.mdnice.com/user/10493/43545129-0b7c-43fa-bdda-babb222d7bd8.png)
 
