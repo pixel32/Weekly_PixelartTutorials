@@ -8,6 +8,7 @@ Collect any pixel art tutorials
 
 ## 五月
 
+- 第133期：[如何产生杠杆来帮助自己](doc/issue-133.md)
 - 第132期: [热爱的工作](doc/issue-132.md) 
 - 第131期：[曾经飞过的鸟](doc/issue-131.md) 
 
