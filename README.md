@@ -6,6 +6,12 @@ Collect any pixel art tutorials
 
 # 2021
 
+## 七月
+
+- 第142期：[一个人觉得自己越弱小](doc/issue-142.md)
+- 第141期：[如果痛苦是能够避免的](doc/issue-141.md)
+- 第140期：[莫因渴望你没有的，而错过你已拥有的](doc/issue-140.md)
+
 ## 六月
 
 - 第139期：[行动是缓解焦虑的良方](doc/issue-139.md)
