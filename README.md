@@ -8,6 +8,7 @@ Collect any pixel art tutorials
 
 ## 七月
 
+- 第143期：[人究竟为什么要寻求别人的认可呢？](doc/issue-143.md)
 - 第142期：[一个人觉得自己越弱小](doc/issue-142.md)
 - 第141期：[如果痛苦是能够避免的](doc/issue-141.md)
 - 第140期：[莫因渴望你没有的，而错过你已拥有的](doc/issue-140.md)
@@ -39,23 +40,23 @@ Collect any pixel art tutorials
 
 - 第126期：[选择其实就那么一个](doc/issue-126.md) 
 - 第125期：[指手画脚的人](doc/issue-125.md) 
-- [第 124 期](doc/issue-124.md) 
+- 第124期：[世界82%的人口生活在平均收入低于每天20美元](doc/issue-124.md) 
 
 ## 二月
 
-- [第 123 期](doc/issue-123.md) 
-- [第 122 期](doc/issue-122.md)
-- [第 121 期](doc/issue-121.md) 
-- [第 120 期](doc/issue-120.md) 
-- [第 119 期](doc/issue-119.md) 
+- 第123期：[利益总是自上而下分配](doc/issue-123.md) 
+- 第122期：[我对超低分辨率像素画的看法](doc/issue-122.md)
+- 第121期：[做自己热爱的事情才会坚持](doc/issue-121.md) 
+- 第120期：[我离职后，整整有一年，一毛钱的收入都没有。那又怎么样？](doc/issue-120.md) 
+- 第119期：[美则因年龄而异](doc/issue-119.md) 
 
 
 ## 一月
-- [第 118 期](doc/issue-118.md) 
-- [第 117 期](doc/issue-117.md) 
-- [第 116 期](doc/issue-116.md) 
-- [第 115 期](doc/issue-115.md) 
-- [第 114 期](doc/issue-114.md)  
+- 第118期：[最难的是自我约束](doc/issue-118.md) 
+- 第117期：[房产投资，买的不是砖瓦水泥，是未来这个地方的经济增长](doc/issue-117.md) 
+- 第116期：[人生的幸福在哪里？](doc/issue-116.md) 
+- 第115期：[可变比率加固可以使用户上瘾](doc/issue-115.md) 
+- 第114期：[高等教育文凭不再是通向“梦想生活”的护照了](doc/issue-114.md)  
 
 # 2020
 
@@ -231,35 +232,35 @@ Collect any pixel art tutorials
 - [第 21 期](doc/issue-21.md)  
 - [第 20 期](doc/issue-20.md)
 - [第 19 期](doc/issue-19.md)     
-- [第 18 期](doc/issue-18.md) 
+- 第18期：[我们的心灵和灵魂渴望获得更大的成就](doc/issue-18.md) 
 
 ## 二月
 
-- [第 17 期](doc/issue-17.md) 
-- [第 16 期](doc/issue-16.md)  
-- [第 15 期](doc/issue-15.md)
-- [第 14 期](doc/issue-14.md)
+- 第17期：[一个人如何开发独立游戏](doc/issue-17.md) 
+- 第16期：[我们通过什么方法来获得用户](doc/issue-16.md)  
+- 第15期：[如何维持爱情的新鲜感](doc/issue-15.md)
+- 第14期：[京东买大家电省钱方法](doc/issue-14.md)
 
 ## 一月
 
-- [第 13 期](doc/issue-13.md) 
-- [第 12 期](doc/issue-12.md)  
-- [第 11 期](doc/issue-11.md)   
+- 第13期：[像素画动态光照程序实现思路](doc/issue-13.md) 
+- 第12期：[像素画颜色选择](doc/issue-12.md)  
+- 第11期：[游戏开发成本预估](doc/issue-11.md)   
 - 第10期：[政府的养老金注定是不够的](doc/issue-10.md)  
 
 # 2018
 
 ## 十二月
 
-- [第 9 期](doc/issue-9.md)    
-- 第8期：[街头霸王2开发者访谈](doc/issue-8.md)    
-- [第 7 期](doc/issue-7.md)   
-- [第 6 期](doc/issue-6.md)
+- 第9期：[日本早期游戏开发资料](doc/issue-9.md)    
+- 第8期：[PixelJoint教程合辑](doc/issue-8.md)    
+- 第7期：[pinterest上面的图片像素画教程](doc/issue-7.md)   
+- 第6期：[一位自学像素画的程序员分享经验](doc/issue-6.md)
 
 ## 十一月
 
-- [第 5 期](doc/issue-5.md)
-- [第 4 期](doc/issue-4.md) 
-- [第 3 期](doc/issue-3.md) 
-- [第 2 期](doc/issue-2.md)
+- 第5期：[找动物叫声的音效](doc/issue-5.md)
+- 第4期：[Micro-mages 40KB游戏开发指南](doc/issue-4.md) 
+- 第3期：[全球最大插画社区](doc/issue-3.md) 
+- 第2期：[怎样开始学习像素画](doc/issue-2.md)
 - 第1期：[做这个周刊的主要原因](doc/issue-1.md)     
