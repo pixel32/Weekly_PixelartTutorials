@@ -6,6 +6,10 @@ Collect any pixel art tutorials
 
 # 2021
 
+## 八月
+
+- 第144期：[真正的自主意味着人们的行为来自自己的真正选择](doc/issue-144.md)
+
 ## 七月
 
 - 第143期：[人究竟为什么要寻求别人的认可呢？](doc/issue-143.md)
