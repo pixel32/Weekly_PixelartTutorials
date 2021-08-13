@@ -8,6 +8,7 @@ Collect any pixel art tutorials
 
 ## 八月
 
+- 第145期：[为钱做事最严重的代价](doc/issue-145.md)
 - 第144期：[真正的自主意味着人们的行为来自自己的真正选择](doc/issue-144.md)
 
 ## 七月
