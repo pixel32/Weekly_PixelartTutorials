@@ -6,6 +6,11 @@ Collect any pixel art tutorials
 
 # 2021
 
+## 九月
+
+- 第149期：[支配世界的是“信息”](doc/issue-149.md)
+- 第148期：[一个人最好的模样](doc/issue-148.md)
+
 ## 八月
 
 - 第147期：[对于人类而言，与自己感兴趣的人交朋友是最古老的努力目标](doc/issue-147.md)
