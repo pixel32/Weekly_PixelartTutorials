@@ -8,6 +8,7 @@ Collect any pixel art tutorials
 
 ## 九月
 
+- 第150期：[3种投资资产](doc/issue-150.md)
 - 第149期：[支配世界的是“信息”](doc/issue-149.md)
 - 第148期：[一个人最好的模样](doc/issue-148.md)
 
@@ -74,92 +75,92 @@ Collect any pixel art tutorials
 
 ## 十二月 
 
-- [第 113 期](doc/issue-113.md) 
-- [第 112 期](doc/issue-112.md)  
-- [第 111 期](doc/issue-111.md) 
-- [第 110 期](doc/issue-110.md) 
+- 第 113 期：[要让一个人因为爱上你而变得更好](doc/issue-113.md) 
+- 第 112 期：[大部分钱都是信用](doc/issue-112.md)  
+- 第 111 期：[如何达到人格独立](doc/issue-111.md) 
+- 第 110 期：[时间是你的人生货币](doc/issue-110.md) 
 
 ## 十一月 
 
-- [第 109 期](doc/issue-109.md) 
-- [第 108 期](doc/issue-108.md) 
-- [第 107 期](doc/issue-107.md)  
-- [第 106 期](doc/issue-106.md)  
+- 第 109 期：[每个人的价值排序不同](doc/issue-109.md) 
+- 第 108 期：[你所做的事情，要努力做到世界最好](doc/issue-108.md) 
+- 第 107 期：[每一个决策都需要经济成本](doc/issue-107.md)  
+- 第 106 期：[4个新兴产业](doc/issue-106.md)  
 
 ## 十月 
 
-- [第 105 期](doc/issue-105.md)
-- [第 104 期](doc/issue-104.md)  
-- [第 103 期](doc/issue-103.md)  
-- [第 102 期](doc/issue-102.md) 
-- [第 101 期](doc/issue-101.md)  
+- 第 105 期：[在与别人第一次见面的时候](doc/issue-105.md)
+- 第 104 期：[所有人都陷入一个巨大装置](doc/issue-104.md)  
+- 第 103 期：[不管全世界所有人怎么说](doc/issue-103.md)  
+- 第 102 期：[为了不被取代，你一定要与众不同](doc/issue-102.md) 
+- 第 101 期：[人有三件事不能等](doc/issue-101.md)  
 
 ## 九月 
 
-- [第 100 期](doc/issue-100.md) 
-- [第 99 期](doc/issue-99.md)  
-- [第 98 期](doc/issue-98.md)  
-- [第 97 期](doc/issue-97.md) 
+- 第 100 期：[生命是向死亡讨来的借贷](doc/issue-100.md) 
+- 第 99 期：[时间被视为稀缺资源](doc/issue-99.md)  
+- 第 98 期：[如果你失败了](doc/issue-98.md)  
+- 第 97 期：[精简的本体论原则](doc/issue-97.md) 
 
 
 ## 八月
 
-- [第 96 期](doc/issue-96.md) 
-- [第 95 期](doc/issue-95.md) 
-- [第 94 期](doc/issue-94.md) 
-- [第 93 期](doc/issue-93.md)  
-- [第 92 期](doc/issue-92.md)  
+- 第 96 期：[没有人能给你出主意](doc/issue-96.md) 
+- 第 95 期：[我也喜欢那些曾经历过失败的人](doc/issue-95.md) 
+- 第 94 期：[大脑最重要的功能](doc/issue-94.md) 
+- 第 93 期：[只有你周围的事物才能和你有因果联系](doc/issue-93.md)  
+- 第 92 期：[我有一个永恒的秘诀](doc/issue-92.md)  
 
 ## 七月 
 
-- [第 91 期](doc/issue-91.md)
-- [第 90 期](doc/issue-90.md) 
-- [第 89 期](doc/issue-89.md) 
-- [第 88 期](doc/issue-88.md) 
+- 第 91 期：[为精神财富工作](doc/issue-91.md)
+- 第 90 期：[当一个人懂得如何自我实现](doc/issue-90.md) 
+- 第 89 期：[成功不在于你有多聪明](doc/issue-89.md) 
+- 第 88 期：[在出租时间的模式下](doc/issue-88.md) 
 
 ## 六月 
 
-- [第 87 期](doc/issue-87.md) 
-- [第 86 期](doc/issue-86.md) 
-- [第 85 期](doc/issue-85.md) 
-- [第 84 期](doc/issue-84.md) 
+- 第 87 期：[判断当前阶段的最好方法](doc/issue-87.md) 
+- 第 86 期：[假如你清楚一个人需求什么](doc/issue-86.md) 
+- 第 85 期：[人生意义的五大价值](doc/issue-85.md) 
+- 第 84 期：[青春是一根烟](doc/issue-84.md) 
 
 ## 五月 
 
-- [第 83 期](doc/issue-83.md) 
-- [第 82 期](doc/issue-82.md)  
-- [第 81 期](doc/issue-81.md)  
-- [第 80 期](doc/issue-80.md) 
-- [第 79 期](doc/issue-79.md)  
+- 第 83 期：[本期无鸡汤](doc/issue-83.md) 
+- 第 82 期：[“尝试”纯粹是一种借口](doc/issue-82.md)  
+- 第 81 期：[很多人都过不了50岁大关](doc/issue-81.md)  
+- 第 80 期：[寻找生命的意义](doc/issue-80.md) 
+- 第 79 期：[人们永远都在寻求新的朋友](doc/issue-79.md)  
 
 ## 四月 
 
-- [第 78 期](doc/issue-78.md)
-- [第 77 期](doc/issue-77.md) 
-- [第 76 期](doc/issue-76.md) 
-- [第 75 期](doc/issue-75.md) 
+- 第 78 期：[我才60岁，人生才刚刚开始](doc/issue-78.md)
+- 第 77 期：[每个人都是一个投资者](doc/issue-77.md) 
+- 第 76 期：[人口的红利决定了所有的红利](doc/issue-76.md) 
+- 第 75 期：[做生意比搬砖赚钱快100倍](doc/issue-75.md) 
 
 ## 三月 
 
-- [第 74 期](doc/issue-74.md) 
-- [第 73 期](doc/issue-73.md) 
-- [第 72 期](doc/issue-72.md)  
-- [第 71 期](doc/issue-71.md) 
+- 第 74 期：[银行很难将负利率传递给零售客户](doc/issue-74.md) 
+- 第 73 期：[如果你不能管理它，就不能改善它](doc/issue-73.md) 
+- 第 72 期：[创业守则第一条](doc/issue-72.md)  
+- 第 71 期：[有利润就有人加入](doc/issue-71.md) 
 
 ## 二月
 
-- [第 66 期](doc/issue-66.md) 
-- [第 67 期](doc/issue-67.md) 
-- [第 68 期](doc/issue-68.md) 
-- [第 69 期](doc/issue-69.md) 
-- [第 70 期](doc/issue-70.md)
+- 第 66 期：[爱一个人就要对他/她说](doc/issue-66.md) 
+- 第 67 期：[牺牲当前的满足](doc/issue-67.md) 
+- 第 68 期：[一棵有思想的苇草](doc/issue-68.md) 
+- 第 69 期：[没有哪件事情是水到渠成的](doc/issue-69.md) 
+- 第 70 期：[一份无关紧要的工作是一个危险的陷阱](doc/issue-70.md)
 
 ## 一月 
 
-- [第 65 期](doc/issue-65.md)
-- [第 64 期](doc/issue-64.md) 
-- [第 63 期](doc/issue-63.md)  
-- [第 62 期](doc/issue-62.md) 
+- 第 65 期：[没有设定人生目标](doc/issue-65.md)
+- 第 64 期：[解决问题的原则](doc/issue-64.md) 
+- 第 63 期：[本期无鸡汤](doc/issue-63.md)  
+- 第 62 期：[一个没结婚也没孩子的男人](doc/issue-62.md) 
 
 
 # 2019
@@ -167,18 +168,18 @@ Collect any pixel art tutorials
 ## 十二月
 
 
-- [第 61 期](doc/issue-61.md)
-- [第 60 期](doc/issue-60.md) 
-- [第 59 期](doc/issue-59.md)
-- [第 58 期](doc/issue-58.md) 
+- 第 61 期：[只有购买必需品才称得上划算](doc/issue-61.md)
+- 第 60 期：[人没有被逼到一定的份上，是不会做出选择的](doc/issue-60.md) 
+- 第 59 期：[先有生存，然后才有真理和科学](doc/issue-59.md)
+- 第 58 期：[你永远无法说服一个人他错了](doc/issue-58.md) 
 
 ## 十一月
 
-- [第 57 期](doc/issue-57.md) 
-- [第 56 期](doc/issue-56.md)  
-- [第 55 期](doc/issue-55.md)  
-- [第 54 期](doc/issue-54.md) 
-- [第 53 期](doc/issue-53.md) 
+- 第 57 期：[为了抵抗风险](doc/issue-57.md) 
+- 第 56 期：[在大的旅游团中人们被当作羊一样赶来赶去](doc/issue-56.md)  
+- 第 55 期：[本期无鸡汤](doc/issue-55.md)  
+- 第 54 期：[要如何区分需要和欲望呢？](doc/issue-54.md) 
+- 第 53 期：[创新的特点是拒绝接受默认选项](doc/issue-53.md) 
 
 
 
@@ -186,65 +187,65 @@ Collect any pixel art tutorials
 
 ## 十月
 
-- [第 52 期](doc/issue-52.md) 
-- [第 51 期](doc/issue-51.md) 
-- [第 50 期](doc/issue-50.md)  
-- [第 49 期](doc/issue-49.md) 
+- 第 52 期：[美国人如何花钱？](doc/issue-52.md) 
+- 第 51 期：[损失造成的痛苦大于收益带来的快乐](doc/issue-51.md) 
+- 第 50 期：[不确定为什么要去](doc/issue-50.md)  
+- 第 49 期：[公司解雇你只需要 6 分钟](doc/issue-49.md) 
 
 ## 九月
 
-- [第 48 期](doc/issue-48.md)
-- [第 47 期](doc/issue-47.md) 
-- [第 46 期](doc/issue-46.md) 
-- [第 45 期](doc/issue-45.md)
+- 第 48 期：[人一生，有四大幸事](doc/issue-48.md)
+- 第 47 期：[要赚钱，最好先考虑生存问题](doc/issue-47.md) 
+- 第 46 期：[海洛因和月薪同样危险](doc/issue-46.md) 
+- 第 45 期：[领导者的三种模式](doc/issue-45.md)
 
 
 ## 八月
 
-- [第 44 期](doc/issue-44.md) 
-- [第 43 期](doc/issue-43.md)  
-- [第 42 期](doc/issue-42.md)
-- [第 41 期](doc/issue-41.md)   
+- 第 44 期：[设计师必须知道产品的目标用户](doc/issue-44.md) 
+- 第 43 期：[飞机托运行李损坏或丢失如何索赔？](doc/issue-43.md)  
+- 第 42 期：[本期无鸡汤](doc/issue-42.md)
+- 第 41 期：[本期无鸡汤](doc/issue-41.md)   
 
 
 ## 七月
 
-- [第 40 期](doc/issue-40.md) 
-- [第 39 期](doc/issue-39.md)  
-- [第 38 期](doc/issue-38.md)
-- [第 37 期](doc/issue-37.md)   
-- [第 36 期](doc/issue-36.md)   
+- 第 40 期：[本期无鸡汤](doc/issue-40.md) 
+- 第 39 期：[现代化的进程](doc/issue-39.md)  
+- 第 38 期：[創業的人不一定要聰明](doc/issue-38.md)
+- 第 37 期：[时间决定你会在生命中遇见谁](doc/issue-37.md)   
+- 第 36 期：[所有上班的人都在出卖自己的劳动力](doc/issue-36.md)   
 
 ## 六月
 
-- [第 35 期](doc/issue-35.md) 
-- [第 34 期](doc/issue-34.md)  
-- [第 33 期](doc/issue-33.md)
-- [第 32 期](doc/issue-32.md)     
+- 第 35 期：[一个人一旦接触到真相](doc/issue-35.md) 
+- 第 34 期：[卓越的人有一个内在的心理评价机制](doc/issue-34.md)  
+- 第 33 期：[公司採用各種辦法裁減40歲以上的員工](doc/issue-33.md)
+- 第 32 期：[靠子女养老，到底是不是一个可靠的出路？](doc/issue-32.md)     
 
 
 ## 五月
 
-- [第 31 期](doc/issue-31.md) 
-- [第 30 期](doc/issue-30.md)  
-- [第 29 期](doc/issue-29.md)
-- [第 28 期](doc/issue-28.md)    
-- [第 27 期](doc/issue-27.md)   
+- 第 31 期：[好多工作都是表面光鲜](doc/issue-31.md) 
+- 第 30 期：[真正的幸福](doc/issue-30.md)  
+- 第 29 期：[日本人口不断萎缩](doc/issue-29.md)
+- 第 28 期：[关于 996 工作制](doc/issue-28.md)    
+- 第 27 期：[本期无鸡汤](doc/issue-27.md)   
 
 ## 四月
 
-- [第 26 期](doc/issue-26.md) 
-- [第 25 期](doc/issue-25.md)  
-- [第 24 期](doc/issue-24.md)
-- [第 23 期](doc/issue-23.md)     
+- 第 26 期：[软件行业是一个年轻的行业](doc/issue-26.md) 
+- 第 25 期：[本期无鸡汤](doc/issue-25.md)  
+- 第 24 期：[從來沒有人告訴年輕人](doc/issue-24.md)
+- 第 23 期：[本期无鸡汤](doc/issue-23.md)     
 
 ## 三月
 
-- [第 22 期](doc/issue-22.md) 
-- [第 21 期](doc/issue-21.md)  
-- [第 20 期](doc/issue-20.md)
-- [第 19 期](doc/issue-19.md)     
-- 第18期：[我们的心灵和灵魂渴望获得更大的成就](doc/issue-18.md) 
+- 第 22 期：[每一个细微的领域](doc/issue-22.md) 
+- 第 21 期：[便利店也是媒体](doc/issue-21.md)  
+- 第 20 期：[本期无鸡汤](doc/issue-20.md)
+- 第 19 期：[花钱你就可以看到很多的赞](doc/issue-19.md)     
+- 第 18 期：[我们的心灵和灵魂渴望获得更大的成就](doc/issue-18.md) 
 
 ## 二月
 
