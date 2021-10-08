@@ -6,8 +6,14 @@ Collect any pixel art tutorials
 
 # 2021
 
+## 十月
+
+- 第152期：[面向未来，你无法将所有节点串联在一起](doc/issue-152.md)
+
+
 ## 九月
 
+- 第151期：[目的是为了生存](doc/issue-151.md)
 - 第150期：[3种投资资产](doc/issue-150.md)
 - 第149期：[支配世界的是“信息”](doc/issue-149.md)
 - 第148期：[一个人最好的模样](doc/issue-148.md)
