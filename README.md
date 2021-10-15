@@ -6,8 +6,11 @@ Collect any pixel art tutorials
 
 # 2021
 
+
 ## 十月
 
+- 第154期：[“最好”是“好”的敌人](doc/issue-154.md)
+- 第153期：[爱的三要素：触摸，陪伴，玩耍](doc/issue-153.md)
 - 第152期：[面向未来，你无法将所有节点串联在一起](doc/issue-152.md)
 
 
