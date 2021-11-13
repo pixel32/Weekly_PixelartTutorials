@@ -6,6 +6,10 @@ Collect any pixel art tutorials
 
 # 2021
 
+## 十一月
+
+- 第156期：[人类是脆弱的生物](doc/issue-155.md)
+
 ## 十月
 
 - 第155期：[越是位高权重，听到的真话就越少](doc/issue-155.md)
