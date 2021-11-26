@@ -8,6 +8,7 @@ Collect any pixel art tutorials
 
 ## 十一月
 
+- 第159期：[人只有三件事可做](doc/issue-159.md)
 - 第158期：[除非对方主动求助](doc/issue-158.md)
 - 第157期：[普通人成功的秘诀](doc/issue-157.md)
 - 第156期：[人类是脆弱的生物](doc/issue-156.md)
