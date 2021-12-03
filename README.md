@@ -6,6 +6,11 @@ Collect any pixel art tutorials
 
 # 2021
 
+## 十二月
+
+- 第160期：[总有这么一个瞬间](doc/issue-160.md)
+
+
 ## 十一月
 
 - 第159期：[人只有三件事可做](doc/issue-159.md)
