@@ -7,7 +7,7 @@ Collect any pixel art tutorials
 # 2021
 
 ## 十二月
-
+- 第161期：[首先要学会放弃](doc/issue-161.md)
 - 第160期：[总有这么一个瞬间](doc/issue-160.md)
 
 
