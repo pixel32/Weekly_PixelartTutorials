@@ -9,6 +9,7 @@ Collect any pixel art tutorials
 
 ## 一月
 
+- 第165期：[越来越多的农民都不愿意种地了](doc/issue-165.md)
 - 第164期：[你想成为什么样的人](doc/issue-164.md)
 
 # 2021
