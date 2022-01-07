@@ -4,6 +4,13 @@ Collect any pixel art tutorials
 像素画每周精选10张，像素画教程，个人摘录鸡汤分享周刊，每周六发布。
 想要投稿，分享内容，招聘求职或接发外包，[issue](https://github.com/pixel32/Weekly_PixelartTutorials/issues) 提交。
 
+
+# 2022
+
+## 一月
+
+- 第164期：[你想成为什么样的人](doc/issue-164.md)
+
 # 2021
 
 ## 十二月
