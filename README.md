@@ -9,6 +9,7 @@ Collect any pixel art tutorials
 
 ## 一月
 
+- 第166期：[面对自己的人生，全力以赴](doc/issue-166.md)
 - 第165期：[越来越多的农民都不愿意种地了](doc/issue-165.md)
 - 第164期：[你想成为什么样的人](doc/issue-164.md)
 
