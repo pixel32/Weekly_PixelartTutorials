@@ -9,6 +9,7 @@ Collect any pixel art tutorials
 
 ## 一月
 
+- 第168期：[必须采取行动](doc/issue-168.md)
 - 第167期：[这不是你的错，都怪我](doc/issue-167.md)
 - 第166期：[面对自己的人生，全力以赴](doc/issue-166.md)
 - 第165期：[越来越多的农民都不愿意种地了](doc/issue-165.md)
