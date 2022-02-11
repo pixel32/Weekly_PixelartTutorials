@@ -7,6 +7,12 @@ Collect any pixel art tutorials
 
 # 2022
 
+## 二月
+
+
+- 第170期：[失败代表摒除不必要的事物](doc/issue-170.md)
+- 第169期：[你越是愿意认识到自己的脆弱](doc/issue-169.md)
+
 ## 一月
 
 - 第168期：[必须采取行动](doc/issue-168.md)
