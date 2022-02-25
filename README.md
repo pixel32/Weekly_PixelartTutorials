@@ -9,6 +9,7 @@ Collect any pixel art tutorials
 
 ## 二月
 
+- 第172期：[如果你想要的东西还不存在](doc/issue-172.md)
 - 第171期：[以前的我](doc/issue-171.md)
 - 第170期：[失败代表摒除不必要的事物](doc/issue-170.md)
 - 第169期：[你越是愿意认识到自己的脆弱](doc/issue-169.md)
