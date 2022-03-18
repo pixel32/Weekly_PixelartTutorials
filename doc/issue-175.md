@@ -4,25 +4,25 @@
 
 关键词：教你画，像素画，像素图，马赛克画，8bit，欣赏，素材，学习参考
 
-![BQ_got](/Users/pixel32/Downloads/175/BQ_got.png)
+![BQ_got](https://tva1.sinaimg.cn/large/e6c9d24ely1h0e25ce45lj21400u0my2.jpg)
 
-![MirruTatep](/Users/pixel32/Downloads/175/MirruTatep.png)
+![MirruTatep](https://tva1.sinaimg.cn/large/e6c9d24ely1h0e259ybx5j20u00u0wh8.jpg)
 
-![moaw](/Users/pixel32/Downloads/175/moaw.png)
+![moaw](https://tva1.sinaimg.cn/large/e6c9d24ely1h0e255vdd4j20so0vc0v3.jpg)
 
-![vell](/Users/pixel32/Downloads/175/vell.png)
+![vell](https://tva1.sinaimg.cn/large/e6c9d24ely1h0e25bbo1uj20u00u0q4a.jpg)
 
-![Milan](/Users/pixel32/Downloads/175/Milan.png)
+![Milan](https://tva1.sinaimg.cn/large/e6c9d24ely1h0e25bomqoj20xc0ls0t4.jpg)
 
-![QJS](/Users/pixel32/Downloads/175/QJS.png)
+![QJS](https://tva1.sinaimg.cn/large/e6c9d24ely1h0e256jtvtj20u00gomz8.jpg)
 
-![ren : slacky](/Users/pixel32/Downloads/175/ren : slacky.png)
+![ren : slacky](https://tva1.sinaimg.cn/large/e6c9d24ely1h0e258zksmj20u00u0wgu.jpg)
 
-![通天機](/Users/pixel32/Downloads/175/通天機.png)
+![通天機](https://tva1.sinaimg.cn/large/e6c9d24ely1h0e2574mr8j20xc0ijgpt.jpg)
 
-![Pierre Vandermaesen](/Users/pixel32/Downloads/175/Pierre Vandermaesen.png)
+![Pierre Vandermaesen](https://tva1.sinaimg.cn/large/e6c9d24ely1h0e2582knrj20to0to43z.jpg)
 
-![@jveclab](/Users/pixel32/Downloads/175/@jveclab.png)
+![@jveclab](https://tva1.sinaimg.cn/large/e6c9d24ely1h0e25asorxj20u00u0wgy.jpg)
 
 # 教程
 
