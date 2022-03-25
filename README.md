@@ -9,6 +9,7 @@ Collect any pixel art tutorials
 
 ## 三月
 
+- 第176期：[最穷的20%群体](doc/issue-176.md)
 - 第175期：[廉价的交流手段](doc/issue-175.md)
 - 第174期：[孤独。但并不是指孤身一人。](doc/issue-174.md)
 - 第173期：[真正好的产品](doc/issue-173.md)
