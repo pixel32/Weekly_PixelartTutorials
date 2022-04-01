@@ -7,6 +7,10 @@ Collect any pixel art tutorials
 
 # 2022
 
+## 四月
+
+- 第177期：[人的一生中主要受两个心理规律支配](doc/issue-177.md)
+
 ## 三月
 
 - 第176期：[最穷的20%群体](doc/issue-176.md)
