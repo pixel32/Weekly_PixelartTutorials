@@ -9,6 +9,7 @@ Collect any pixel art tutorials
 
 ## 四月
 
+- 第178期：[全部潜能](doc/issue-178.md)
 - 第177期：[人的一生中主要受两个心理规律支配](doc/issue-177.md)
 
 ## 三月
