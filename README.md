@@ -7,8 +7,9 @@ Collect any pixel art tutorials
 
 # 2022
 
-## 
+## 四月
 
+- 第180期：[一个人可以对别人撒谎](doc/issue-180.md)
 - 第179期：[焦虑就是恐惧](doc/issue-179.md)
 - 第178期：[全部潜能](doc/issue-178.md)
 - 第177期：[人的一生中主要受两个心理规律支配](doc/issue-177.md)
