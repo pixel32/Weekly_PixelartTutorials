@@ -7,6 +7,10 @@ Collect any pixel art tutorials
 
 # 2022
 
+## 五月
+
+- 第182期：[糟糕的日子](doc/issue-182.md)
+
 ## 四月
 
 - 第181期：[无愧于幸福](doc/issue-181.md)
