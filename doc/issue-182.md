@@ -4,25 +4,25 @@
 
 关键词：教你画，像素画，像素图，马赛克画，8bit，欣赏，素材，学习参考
 
-![Mima](/Users/pixel32/Downloads/182/Mima.png)
+![Mima](https://tva1.sinaimg.cn/large/e6c9d24ely1h1yrk419xzj21770u0n2t.jpg)
 
-![お](/Users/pixel32/Downloads/182/お.png)
+![お](https://tva1.sinaimg.cn/large/e6c9d24ely1h1yrk6satqj20qo0qo3zy.jpg)
 
-![𝔎𝔫𝔦𝔤𝔥𝔱](/Users/pixel32/Downloads/182/𝔎𝔫𝔦𝔤𝔥𝔱.png)
+![𝔎𝔫𝔦𝔤𝔥𝔱](https://tva1.sinaimg.cn/large/e6c9d24ely1h1yrk5uukgj20hs0qo0u0.jpg)
 
-![KIN](/Users/pixel32/Downloads/182/KIN.png)
+![KIN](https://tva1.sinaimg.cn/large/e6c9d24ely1h1yrk941hwj20u00u0q3k.jpg)
 
-![delicious](/Users/pixel32/Downloads/182/delicious.png)
+![delicious](https://tva1.sinaimg.cn/large/e6c9d24ely1h1yrk52cxvj20cy0k6jsy.jpg)
 
-![엄청쎈풍뎅이](/Users/pixel32/Downloads/182/엄청쎈풍뎅이.png)
+![엄청쎈풍뎅이](https://tva1.sinaimg.cn/large/e6c9d24ely1h1yrk32nfjj20e80e8js8.jpg)
 
-![ink](/Users/pixel32/Downloads/182/ink.png)
+![ink](https://tva1.sinaimg.cn/large/e6c9d24ely1h1yrk2cpewj20xc0q3tdd.jpg)
 
-![Nyura Kim](/Users/pixel32/Downloads/182/Nyura Kim.png)
+![Nyura Kim](https://tva1.sinaimg.cn/large/e6c9d24ely1h1yrka2dgaj20qo0qo40y.jpg)
 
-![Chamm](/Users/pixel32/Downloads/182/Chamm.png)
+![Chamm](https://tva1.sinaimg.cn/large/e6c9d24ely1h1yrk7coisj20u00u0jvk.jpg)
 
-![Tofu](/Users/pixel32/Downloads/182/Tofu.png)
+![Tofu](https://tva1.sinaimg.cn/large/e6c9d24ely1h1yrk876k2j20cg0i8t9n.jpg)
 
 # 字体
 
