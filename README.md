@@ -9,6 +9,7 @@ Collect any pixel art tutorials
 
 ## 五月
 
+- 第183期：[你要做的第一件事](doc/issue-183.md)
 - 第182期：[糟糕的日子](doc/issue-182.md)
 
 ## 四月

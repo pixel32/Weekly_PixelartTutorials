@@ -24,7 +24,7 @@
 
 ![Tofu](https://tva1.sinaimg.cn/large/e6c9d24ely1h1yrk876k2j20cg0i8t9n.jpg)
 
-# 字体
+# 教程
 
 1、[像素画游戏美术：基于Tile的场景设计](https://mp.weixin.qq.com/s/V1Ep882znRMI5mR5QMFlzw)
 

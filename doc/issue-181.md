@@ -24,7 +24,7 @@
 
 ![Rainbow](https://tva1.sinaimg.cn/large/e6c9d24ely1h1ql8ompm0j218g0m8dg8.jpg)
 
-# 字体
+# 教程
 
 1、[像素画游戏美术：角色篇](https://mp.weixin.qq.com/s/evnvqx6lq7RZ0AWrDl4JOw)
 
