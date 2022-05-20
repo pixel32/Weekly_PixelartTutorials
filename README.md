@@ -9,6 +9,7 @@ Collect any pixel art tutorials
 
 ## 五月
 
+- 第184期：[进步与平困](doc/issue-184.md)
 - 第183期：[你要做的第一件事](doc/issue-183.md)
 - 第182期：[糟糕的日子](doc/issue-182.md)
 
