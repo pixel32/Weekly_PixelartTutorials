@@ -7,6 +7,10 @@ Collect any pixel art tutorials
 
 # 2022
 
+## 六月
+
+- 第186期：[不拍马屁的人](doc/issue-186.md)
+
 ## 五月
 
 - 第185期：[最年轻的时候](doc/issue-185.md)
