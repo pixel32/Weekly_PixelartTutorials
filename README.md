@@ -9,6 +9,7 @@ Collect any pixel art tutorials
 
 ## 六月
 
+- 第187期：[你都学会了什么](doc/issue-187.md)
 - 第186期：[不拍马屁的人](doc/issue-186.md)
 
 ## 五月
