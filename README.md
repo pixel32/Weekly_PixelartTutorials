@@ -7,6 +7,10 @@ Collect any pixel art tutorials
 
 # 2022
 
+## 七月
+
+- 第190期：[生活真相](doc/issue-190.md)
+
 ## 六月
 
 - 第189期：[一个人](doc/issue-189.md)
