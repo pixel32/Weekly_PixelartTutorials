@@ -9,6 +9,7 @@ Collect any pixel art tutorials
 
 ## 七月
 
+- 第192期：[巨大改变的行业](doc/issue-192.md)
 - 第191期：[人生关键决策](doc/issue-191.md)
 - 第190期：[生活真相](doc/issue-190.md)
 
