@@ -9,6 +9,7 @@ Collect any pixel art tutorials
 
 ## 七月
 
+- 第193期：[唯一拥有的是当下](doc/issue-193.md)
 - 第192期：[巨大改变的行业](doc/issue-192.md)
 - 第191期：[人生关键决策](doc/issue-191.md)
 - 第190期：[生活真相](doc/issue-190.md)
