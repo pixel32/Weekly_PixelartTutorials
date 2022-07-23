@@ -16,7 +16,7 @@
 
 ![Neru](https://tva1.sinaimg.cn/large/e6c9d24ely1h4fc77a21uj20wo0so402.jpg)
 
-![penusbmic](https://tva1.sinaimg.cn/large/e6c9d24ely1h4fc74ch3zj20up0u0jvs.jpg)
+![penusbmic](https://tva1.sinaimg.cn/large/e6c9d24ely1h4gtgbmu3hj20u00u0te0.jpg)
 
 ![Pixel Art Journey](https://tva1.sinaimg.cn/large/e6c9d24ely1h4fc73ymcbj20u010oju9.jpg)
 
