@@ -8,7 +8,7 @@
 
 ![Brossu](https://tva1.sinaimg.cn/large/e6c9d24ely1h4ntybyzx3j20xc0m8js4.jpg)
 
-![Daniel James Freer](https://tva1.sinaimg.cn/large/e6c9d24ely1h4ntyc7lnbj20xc0m8js4.jpg)
+![Daniel James Freer](https://tva1.sinaimg.cn/large/e6c9d24ely1h4nu1w5slej20xc0sltdg.jpg)
 
 ![DIM](https://tva1.sinaimg.cn/large/e6c9d24ely1h4ntyfbs9ej20go0goq3k.jpg)
 
